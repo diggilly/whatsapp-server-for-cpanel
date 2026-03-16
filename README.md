@@ -2,8 +2,7 @@
 integrate a whatsapp nodejs server on cpanel in less that a minute
 
 ## whatsapp nodejs structure 
-
-'''
+```
 /home3/nyumban9/app.onhandi.com/node-engine/
 ├── .env                      # ✅ Configured & Working
 ├── .gitignore                # ✅ Set
@@ -32,4 +31,4 @@ integrate a whatsapp nodejs server on cpanel in less that a minute
 ├── sessions/                 # 💾 Stores Auth Credentials (Auto-created)
 └── logs/                     # 📝 Logs
 
-'''
+```
