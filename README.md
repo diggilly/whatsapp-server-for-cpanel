@@ -3,7 +3,7 @@ integrate a whatsapp nodejs server on cpanel in less that a minute
 
 ## whatsapp nodejs structure 
 ```
-/home3/nyumban9/app.onhandi.com/node-engine/
+/home3/yourdomain/node-engine/
 ├── .env                      # ✅ Configured & Working
 ├── .gitignore                # ✅ Set
 ├── package.json              # ✅ Dependencies Installed
